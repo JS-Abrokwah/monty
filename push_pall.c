@@ -1,7 +1,7 @@
 /*
  * File: monty_funcs_1.c
  * Auth: Ransford Oppong
-          Joseph Abrokwah
+          Joseph ABROKWAH
  */
 
 #include "monty.h"
